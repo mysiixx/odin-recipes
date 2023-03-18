@@ -1,0 +1,48 @@
+.html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.body {
+    background-color: white;
+    color: black;
+    text-indent: 16px;
+}
+
+.odin-recipes {
+    font-size: 50px;
+    text-align: center;
+}
+
+.title {
+    font-size: 40px;
+    text-align: left;
+}
+
+.header2 {
+    font-size: 32px;
+    text-align: left;
+    line-height: 48px;
+}
+
+.description .desc-p {
+    font-size: 24px;
+    line-height: 8px;
+    text-align: left;
+}
+
+.unord-list {
+    font-size: 22px;
+    text-align: left;
+    line-height: 30px;
+}
+
+.ord-steps {
+    font-size: 22px;
+    text-align: left;
+    line-height: 30px;
+}
+
+.main-img {
+    width: 400px;
+    height: auto;
+}
